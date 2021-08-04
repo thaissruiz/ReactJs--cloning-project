@@ -5,7 +5,7 @@ const PagesPromotionForm = () => {
   const { id } = useParams();
   return (
     <div>
-      FORM
+      FORM/ TESTINH
       {id && <div>id: {id}</div>}
     </div>
   );
